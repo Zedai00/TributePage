@@ -1,15 +1,5 @@
 body {
-    display: block;
+    background: #99ccff;
     text-align: center;
-}
-img {
-    max-width: 100%;
-    display: block;
-    height: auto;
-    margin: 0 auto;
-    
-}
-#img-div {
-    padding: 20px;
-    
+    font-family: ;
 }
